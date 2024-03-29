@@ -1,7 +1,7 @@
 # Look who decided to show up!👋
 
-- Hey! I'm Matt, a Computer Science Junior and Software Developer at Arizona State University who's interested in Machine Learning and Software Engineering. 
-
+- Hey! I'm Matt, a Computer Science Junior at Arizona State University and current Software Developer.
+- My fields of interest are Machine Learning (particularly Deep Learning) and Software Engineering.
 - This is where I showcase my work projects, personal projects, as well as document my learning and exploration.
 
 ## About Me 📌
@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on LeetCode and my Player Performance Prediction Model project.
 - 🌱 I'm currently reading the book Artificial Intelligence Illuminated.
 - 💼 I'm a part of the team that develops the software for the Spatial Ecology Gateway project.
-- 🤔 I'm looking for collaboration on developing a cool Capstone project idea.
+- 🤔 I'm looking for collaboration on developing a cool Capstone project idea. I'm considering something trying to work on something related to Machine Learning Accelerator Design.
 - 💬 Ask me about Principles of Programming Languages and Intro to Theoretical Computer Science (I'm a UGTA for both classes).
 
 ## My Projects 💡
