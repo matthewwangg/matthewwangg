@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on LeetCode and my Player Performance Prediction Model project.
 - 🌱 I'm currently reading the book Artificial Intelligence Illuminated.
 - 💼 I'm a part of the team that develops the software for the Spatial Ecology Gateway project.
-- 🤔 I'm looking for collaboration on developing a cool Capstone project idea. I'm considering something trying to work on something related to Machine Learning Accelerator Design.
+- 🤔 I'm looking for collaboration on developing a cool Capstone project idea. I'm considering something something related to Deep Learning, NLP, or Machine Learning Accelerator Design.
 - 💬 Ask me about Principles of Programming Languages and Intro to Theoretical Computer Science (I'm a UGTA for both classes).
 
 ## My Projects 💡
@@ -24,7 +24,7 @@ Here are some of the projects I'm proud of:
 ## Contact Information 📲
 
 - 🔗 LinkedIn: [Matthew Wang](https://www.linkedin.com/in/matthew-wang-cs/)
-- 📸 Instagram: [matthewiwang](https://www.instagram.com/matthewiwang/)
+- 📸 Instagram: [Matthew Wang](https://www.instagram.com/matthewiwang/)
 - 📫 Email: [miwang1@asu.edu](mailto:miwang1@asu.edu).
 
 Feel free to reach out! 😊
