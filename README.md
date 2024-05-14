@@ -1,6 +1,6 @@
 # Look who decided to show up!👋
 
-- Hey! I'm Matt, an incoming Computer Science Senior at Arizona State University and Software Developer.
+- Hey! I'm Matt, an incoming Computer Science senior at Arizona State University and a Software Developer.
 - I'm also an incoming AI/ML Engineering intern at Honeywell
 - My fields of interest are Machine Learning (particularly Deep Learning) and Software Engineering.
 - This is where I showcase my work projects, personal projects, as well as document my learning and exploration.
