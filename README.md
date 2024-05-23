@@ -8,7 +8,7 @@
 ## About Me 📌
 
 - 🔭 I’m currently working on LeetCode and my Player Performance Prediction Model project.
-- 🌱 I'm currently reading the book Artificial Intelligence Illuminated and learning about Convolutional Neural Networks.
+- 🌱 I'm looking for a new book to follow up on previous learning, including the insights I took from Artificial Intelligence Illuminated
 - 💼 I'm a part of the team that develops the software for the Spatial Ecology Gateway project.
 - 🤔 I'm looking for collaboration on developing a cool Capstone project idea. I'm considering something something related to Deep Learning, NLP, or Machine Learning Accelerator Design.
 - 💬 Ask me about Principles of Programming Languages and Intro to Theoretical Computer Science (I've been a UGTA for both classes).
