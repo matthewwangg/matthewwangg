@@ -7,7 +7,7 @@
 
 ## About Me 📌
 
-- 🔭 I’m currently focusing on my work as an AI/ML Engineering Intern at Honeywell as well as beginning my research for a new personal project.
+- 🔭 I’m currently focusing on my work as an AI/ML Engineering Intern at Honeywell as well as beginning my research for a new full-stack development personal project. Feel free to ask to collaborate on a personal project!
 - 🌱 I'm looking for a new book to follow up on previous learning, including the insights I took from Artificial Intelligence Illuminated
 - 💼 I'm a part of the team that develops the software for the Spatial Ecology Gateway project.
 - 🤔 I'm looking for collaboration on developing a cool Capstone project idea. I'm considering something something related to Deep Learning, NLP, or Machine Learning Accelerator Design.
