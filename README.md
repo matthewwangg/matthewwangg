@@ -1,23 +1,22 @@
-# Look who decided to show up!👋
+# 👋 Hey! I'm Matt
 
-- Hey! I'm Matt, an incoming Computer Science senior at Arizona State University and a Software Developer.
-- I'm also an AI/ML Engineering intern at Honeywell
-- My fields of interest are Machine Learning (particularly Deep Learning) and Software Engineering.
-- This is where I showcase my work projects, personal projects, as well as document my learning and exploration.
+- 📓 I'm an incoming Computer Science senior at Arizona State University.
+- 💻 I'm an AI/ML Engineering intern at Honeywell.
+- 💼 I'm a Software Developer working for the National Science Foundation-funded Spatial Ecology Gateway project.
+- 📝 I've been a UGTA for Principles of Programming Languages and Intro to Theoretical Computer Science.
+- 🤖 My fields of interest are Machine Learning and Software Engineering.
 
-## About Me 📌
+## This Month's Focus 📌
 
-- 🔭 I’m currently focusing on my work as an AI/ML Engineering Intern at Honeywell as well as beginning my research for a new full-stack development personal project. Feel free to ask to collaborate on a personal project!
-- 🌱 I'm looking for a new book to follow up on previous learning, including the insights I took from Artificial Intelligence Illuminated
-- 💼 I'm a part of the team that develops the software for the Spatial Ecology Gateway project.
-- 🤔 I'm looking for collaboration on developing a cool Capstone project idea. I'm considering something something related to Deep Learning, NLP, or Machine Learning Accelerator Design.
-- 💬 Ask me about Principles of Programming Languages and Intro to Theoretical Computer Science (I've been a UGTA for both classes).
+- 🔭 Working to improve on my existing personal project with a new tech stack.
+- 🌱 Practicing the application of data structures and algorithms through LeetCode.
+- 📘 Looking for the right books to further my learning. I plan to buy Intro to Algorithms 4th edition.
+- 🤔 Contemplating an idea for a cool senior Capstone project idea related to Computer Vision.
+- 🏫 Researching graduate schools that might be a good fit for me.
 
 ## My Projects 💡
 
-Here are some of the projects I'm proud of:
-
-- ⚽ [Player Performance Prediction Model](https://github.com/matthewwangg/Player-Performance-Prediction)<!--: Full-stack web app with machine learning model to make predictions for the English Premier League.-->
+- ⚽ [Player Performance Prediction Web App](https://github.com/matthewwangg/Player-Performance-Prediction)<!--: Full-stack web app with machine learning model to make predictions for the English Premier League.-->
 - 🌐 [Live Traffic Map Generator](https://github.com/matthewwangg/Live-Traffic-Heat-Map-Generator)<!--: Flask web application that generates a live traffic heat map given a location.-->
 - 👨‍💻 [Effort Logger V2 and Planning Poker](https://github.com/RenaudAlly/CSE-360-Effort-Logger)<!--: Productivity tool to aid Agile teams log effort and defect data for decision making and Planning Poker.-->
 
@@ -28,18 +27,3 @@ Here are some of the projects I'm proud of:
 - 📫 Email: [miwang1@asu.edu](mailto:miwang1@asu.edu).
 
 Feel free to reach out! 😊
-
-<!--
-**matthewwangg/matthewwangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
