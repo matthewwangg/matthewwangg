@@ -10,7 +10,7 @@
 
 - 🔭 Working to improve on my existing personal project with a new tech stack.
 - 🌱 Practicing the application of data structures and algorithms through LeetCode.
-- 📘 Looking for the right books to further my learning. I'm waiting for my copy of Intro to Algorithms 4th edition to arrive.
+- 📘 Reading Intro to Algorithms 4th edition to improve my understanding of Computer Science.
 - 🤔 Contemplating an idea for a cool senior Capstone project idea related to Computer Vision.
 - 🏫 Researching graduate schools that might be a good fit for me.
 
