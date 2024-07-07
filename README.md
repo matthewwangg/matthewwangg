@@ -8,11 +8,11 @@
 
 ## This Month's Focus 📌
 
-- 🔭 Working on updating Player Performance Prediction 2.0 and a new project.
+- 🔭 Working on updating Player Performance Prediction 2.0 and collaborating with a friend on a new project.
 - 🌱 Practicing the application of data structures and algorithms through LeetCode.
 - 📘 Reading Intro to Algorithms 4th edition to improve my understanding of Computer Science.
-- 🤔 Contemplating an idea for a cool senior Capstone project idea related to Computer Vision.
-- 🏫 Researching graduate schools that might be a good fit for me.
+- 🤔 Contemplating and researching an idea for a cool senior Capstone project idea related to Computer Vision.
+- 🏫 Researching graduate schools to continue and elevate my education to the next level.
 
 ## Languages, Frameworks, and Technologies
 
