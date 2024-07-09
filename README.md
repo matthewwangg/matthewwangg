@@ -27,7 +27,6 @@
 ## Contact Information 📲
 
 - 🔗 LinkedIn: [Matthew Wang](https://www.linkedin.com/in/matthew-wang-cs/)
-- 📸 Instagram: [Matthew Wang](https://www.instagram.com/matthewiwang/)
 - 📫 Email: [miwang1@asu.edu](mailto:miwang1@asu.edu).
 
 Feel free to reach out! 😊
