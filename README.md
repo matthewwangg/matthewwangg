@@ -21,7 +21,7 @@
 ## My Projects 💡
 
 - ⚽ [Player Performance Prediction Web App](https://github.com/matthewwangg/Player-Performance-Prediction-2.0)<!--: Full-stack web app with machine learning model to make predictions for the English Premier League.-->
-- ↗️ [Trading Engine Web App](https://github.com/matthewwangg/Trading-Engine-Web-App)
+- ↗️ [Trading Algorithm Web App](https://github.com/matthewwangg/Trading-Algorithm-Web-App)
 - 🌐 [Live Traffic Map Generator](https://github.com/matthewwangg/Live-Traffic-Heat-Map-Generator)<!--: Flask web application that generates a live traffic heat map given a location.-->
 - 👨‍💻 [Effort Logger V2 and Planning Poker](https://github.com/RenaudAlly/CSE-360-Effort-Logger)<!--: Productivity tool to aid Agile teams log effort and defect data for decision making and Planning Poker.-->
 
