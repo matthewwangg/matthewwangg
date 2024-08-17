@@ -1,7 +1,7 @@
 # 👋 Hey! I'm Matt
 
 - 📓 I'm an incoming Computer Science senior at Arizona State University.
-- 💻 I'm an AI/ML Engineering intern at Honeywell.
+- 💻 I was an AI/ML Engineering intern at Honeywell this past summer.
 - 💼 I'm a Software Developer working for the National Science Foundation-funded Spatial Ecology Gateway project.
 - 📝 I've been a UGTA for Principles of Programming Languages and Intro to Theoretical Computer Science.
 - 🤖 My fields of interest are Machine Learning and Software Engineering.
