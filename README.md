@@ -11,7 +11,7 @@
 - 🔭 Working on a Reinforcement Learning project and updating the Trading Algorithm web application.
 - 🌱 Practicing the application of data structures and algorithms through LeetCode.
 - 📘 Reading Intro to Algorithms 4th edition to improve my understanding of Computer Science.
-- 🤔 Contemplating and researching an idea for a cool senior Capstone project idea related to Computer Vision.
+- 🤔 Studying and working on my senior Capstone project.
 - 🏫 Researching graduate schools to continue and elevate my education to the next level.
 - 👨‍💼 Starting the recruitment process for either a Summer 2025 internship or a New Grad full-time job.
 
