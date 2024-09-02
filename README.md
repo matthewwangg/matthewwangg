@@ -8,7 +8,7 @@
 
 ## This Month's Focus 📌
 
-- 🔭 Working on a Reinforcement Learning project and updating the Trading Algorithm web application.
+- 🔭 Working on updating the Player Performance Prediction 2.0 and Trading Algorithm web applications.
 - 🌱 Practicing the application of data structures and algorithms through LeetCode.
 - 📘 Reading Intro to Algorithms 4th edition to improve my understanding of Computer Science.
 - 🤔 Studying and working on my senior Capstone project.
