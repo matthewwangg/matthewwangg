@@ -8,7 +8,7 @@
 
 ## This Month's Focus 📌
 
-- 🔭 Learning Go through a new personal project.
+- 🔭 Learning Go through a new personal project called Paper Trail.
 - 🌱 Practicing the application of data structures and algorithms through LeetCode.
 - 📘 Reading Intro to Algorithms 4th edition to improve my understanding of Computer Science.
 - 🤔 Studying Terraform and AWS and working on my senior Capstone project.
@@ -28,6 +28,7 @@
 ## My Projects 💡
 
 - ⚽ [Player Performance Prediction Web App](https://github.com/matthewwangg/Player-Performance-Prediction-2.0)<!--: Full-stack web app with machine learning model to make predictions for the English Premier League.-->
+- 🗞️ [Paper Trail](https://github.com/matthewwangg/Paper-Trail)
 - ↗️ [Trading Algorithm Web App](https://github.com/matthewwangg/Trading-Algorithm-Web-App)
 - 🌐 [Live Traffic Map Generator](https://github.com/matthewwangg/Live-Traffic-Heat-Map-Generator)<!--: Flask web application that generates a live traffic heat map given a location.-->
 - 👨‍💻 [Effort Logger V2 and Planning Poker](https://github.com/RenaudAlly/CSE-360-Effort-Logger)<!--: Productivity tool to aid Agile teams log effort and defect data for decision making and Planning Poker.-->
