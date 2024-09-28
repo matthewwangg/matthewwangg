@@ -22,7 +22,7 @@
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,net,django,flask,pytorch,sklearn,tensorflow,postgres,mysql,mongodb"/>
 
-<img src="https://skillicons.dev/icons?i=azure,gcp,linux,docker,pycharm,webstorm,github,npm,powershell,vscode,visualstudio"/>
+<img src="https://skillicons.dev/icons?i=azure,gcp,aws,linux,docker,terraform,github,webstorm,powershell,vscode,visualstudio"/>
 
 
 ## My Projects 💡
