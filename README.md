@@ -8,10 +8,10 @@
 
 ## This Month's Focus 📌
 
-- 🔭 Learning Go through a new personal project called Paper Trail and working on my portfolio website.
+- 🔭 Learning Go through developing Paper Trail and working on my portfolio website.
 - 🌱 Practicing the application of data structures and algorithms through LeetCode.
 - 📘 Reading Intro to Algorithms 4th edition to improve my understanding of Computer Science.
-- 🤔 Working with Terraform and AWS for my senior Capstone project.
+- 🤔 Working with Terraform and AWS for my senior Capstone project with Let's Technologies
 - 🏫 Researching graduate schools to continue and elevate my education to the next level.
 - 👨‍💼 Starting the recruitment process for either a Summer 2025 internship or a New Grad full-time job.
 
