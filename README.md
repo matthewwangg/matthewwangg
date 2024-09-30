@@ -8,8 +8,8 @@
 
 ## This Month's Focus 📌
 
-- 🔭 Learning Go through developing Paper Trail and working on my portfolio website.
-- 🌱 Practicing the application of data structures and algorithms through LeetCode.
+- 🔭 Learning Go through developing Paper Trail and working on my portfolio website with React.
+- 🌱 Practicing the application of data structures and algorithms through practice LeetCode with Python.
 - 📘 Reading Intro to Algorithms 4th edition to improve my understanding of Computer Science.
 - 🤔 Working with Terraform and AWS for my senior Capstone project with Let's Technologies
 - 🏫 Researching graduate schools to continue and elevate my education to the next level.
