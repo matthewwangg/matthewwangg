@@ -13,29 +13,16 @@
 - 📘 Reading Intro to Algorithms 4th edition to improve my understanding of Computer Science.
 - 🤔 Working with Terraform and AWS for my senior Capstone project with Let's Technologies
 - 🏫 Researching graduate schools to continue and elevate my education to the next level.
-- 👨‍💼 Starting the recruitment process for either a Summer 2025 internship or a New Grad full-time job.
 
 ## Languages, Frameworks, and Technologies
 
 <img src="https://skillicons.dev/icons?i=python,c,cs,cpp,js,ts,r,ocaml,go,html,css"/>
 
-
 <img src="https://skillicons.dev/icons?i=react,nodejs,net,django,flask,pytorch,sklearn,tensorflow,postgres,mysql,mongodb"/>
 
 <img src="https://skillicons.dev/icons?i=azure,gcp,aws,linux,docker,terraform,github,webstorm,powershell,vscode,visualstudio"/>
-
-
-## My Projects 💡
-
-- ⚽ [Player Performance Prediction Web App](https://github.com/matthewwangg/Player-Performance-Prediction-2.0)<!--: Full-stack web app with machine learning model to make predictions for the English Premier League.-->
-- 🗞️ [Paper Trail](https://github.com/matthewwangg/Paper-Trail)
-- ↗️ [Trading Algorithm Web App](https://github.com/matthewwangg/Trading-Algorithm-Web-App)
-- 🌐 [Live Traffic Map Generator](https://github.com/matthewwangg/Live-Traffic-Heat-Map-Generator)<!--: Flask web application that generates a live traffic heat map given a location.-->
-- 👨‍💻 [Effort Logger V2 and Planning Poker](https://github.com/RenaudAlly/CSE-360-Effort-Logger)<!--: Productivity tool to aid Agile teams log effort and defect data for decision making and Planning Poker.-->
 
 ## Contact Information 📲
 
 - 🔗 LinkedIn: [Matthew Wang](https://www.linkedin.com/in/matthew-wang-cs/)
 - 📫 Email: [miwang1@asu.edu](mailto:miwang1@asu.edu).
-
-Feel free to reach out! 😊
