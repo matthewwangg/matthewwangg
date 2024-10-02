@@ -2,6 +2,7 @@
 
 - 📓 I'm a Computer Science senior at Arizona State University.
 - 💻 I was an AI/ML Engineering intern at Honeywell this past summer.
+- 🚗 I'm a Software Engineering intern at Revolution Parts.
 - 💼 I'm a Software Developer working for the National Science Foundation-funded Spatial Ecology Gateway project.
 - 📝 I've been a UGTA for Principles of Programming Languages and Intro to Theoretical Computer Science.
   
