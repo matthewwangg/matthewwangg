@@ -1,6 +1,6 @@
 # 👋 Hey! I'm Matt
 
-- 📓 I'm a Computer Science senior at Arizona State University.
+- 📓 I'm a BS Computer Science major at Arizona State University.
 - 💻 I was an AI/ML Engineering intern at Honeywell this past summer.
 - 🚗 I'm a Software Engineering intern at Revolution Parts.
 - 💼 I'm a Software Developer working for the National Science Foundation-funded Spatial Ecology Gateway project.
@@ -8,7 +8,7 @@
   
 ## This Month's Focus 📌
 
-- 🔭 Learning Go through developing Paper Trail and working on my portfolio website with React.
+- 🔭 Learning Go through developing Paper Trail and working on my portfolio website with Next.js.
 - 📘 Reading Intro to Algorithms 4th edition to improve my understanding of Computer Science.
 - 🤔 Working with Terraform and AWS for my senior Capstone project with Let's Technologies
 - 🏫 Researching graduate schools to continue and elevate my education to the next level.
