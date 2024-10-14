@@ -11,7 +11,7 @@
 - 🔭 Learning Go through developing Paper Trail and working on my portfolio website with Next.js.
 - 📘 Reading Intro to Algorithms 4th edition to improve my understanding of Computer Science.
 - 🤔 Working with Terraform and AWS for my senior Capstone project with Let's Technologies
-- 🏫 Researching graduate schools to continue and elevate my education to the next level.
+- 🏫 Applying to graduate schools to continue and elevate my education to the next level.
 
 ## Languages, Frameworks, and Technologies
 
