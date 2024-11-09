@@ -11,7 +11,7 @@
 - 🔭 Learning Go and WebSockets through developing Paper Trail.
 - 📘 Reading Intro to Algorithms 4th edition to improve my understanding of Computer Science.
 - 🤔 Working with Terraform and AWS for my senior Capstone project with Let's Technologies
-- 🏫 Applying to graduate schools to continue and elevate my education to the next level.
+- 🏫 Writing the essays for graduate school applications.
 
 ## Languages, Frameworks, and Technologies
 
