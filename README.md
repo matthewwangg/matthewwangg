@@ -9,10 +9,9 @@
 ## This Month's Focus 📌
 
 - 🔭 Learning Go and WebSockets through developing Paper Trail.
-- 🤖 Studying further on Planning and Learning Methods in AI, the graduate-level course I'm studying.
 - 📘 Reading Intro to Algorithms 4th edition to improve my understanding of Computer Science.
 - 🤔 Contemplating future improvements for my senior Capstone project with Let's Technologies
-- 🏫 Writing the essays for graduate school applications.
+- 🏫 Submitting graduate school applications to continue my education.
 
 ## Languages, Frameworks, and Technologies
 
