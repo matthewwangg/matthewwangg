@@ -15,7 +15,7 @@
 
 ## Languages, Frameworks, and Technologies
 
-<img src="https://skillicons.dev/icons?i=python,c,cs,cpp,js,ts,r,php,go,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,c,cs,cpp,js,ts,r,php,go,bash,rust"/>
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,net,django,flask,pytorch,sklearn,tensorflow,postgres,mysql,mongodb"/>
 
