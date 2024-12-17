@@ -9,6 +9,7 @@
 ## This Month's Focus 📌
 
 - 🔭 Learning Go and WebSockets through developing Paper Trail.
+- 🤖 Brainstorming a new project related to Reinforcement Learning.
 - 📘 Reading Intro to Algorithms 4th edition to improve my understanding of Computer Science.
 - 🤔 Contemplating future improvements for my senior Capstone project with Let's Technologies
 - 🏫 Submitting graduate school applications to continue my education.
