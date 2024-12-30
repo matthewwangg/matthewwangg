@@ -2,7 +2,7 @@
 
 - 📓 I'm getting my Bachelor of Science in Computer Science at Arizona State University.
 - 💻 I was an AI/ML Engineering intern at Honeywell Technologies developing AI solutions.
-- 🚗 I'm a Software Engineering intern at Revolution Parts working on the SEO page.
+- 🚗 I'm a Software Engineering intern at Revolution Parts working on fallback URLs.
 - 💼 I'm a Software Developer working for the National Science Foundation-funded Spatial Ecology Gateway project.
 - 📝 I've been a UGTA for Principles of Programming Languages and Intro to Theoretical Computer Science.
   
@@ -12,7 +12,7 @@
 - 🤖 Brainstorming a new project related to Reinforcement Learning.
 - 📘 Reading Intro to Algorithms 4th edition to improve my understanding of Computer Science.
 - 🤔 Contemplating future improvements for my senior Capstone project with Let's Technologies
-- 🏫 Submitting graduate school applications to continue my education.
+- 🏫 Searching for the classes for my final semester at ASU.
 
 ## Languages, Frameworks, and Technologies
 
