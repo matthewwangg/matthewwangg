@@ -1,8 +1,8 @@
 # 👋 Hey! I'm Matt
 
 - 📓 I'm getting my Bachelor of Science in Computer Science at Arizona State University.
-- 💻 I was an AI/ML Engineering intern at Honeywell Technologies developing AI solutions.
-- 🚗 I'm a Software Engineering intern at Revolution Parts working on fallback URLs.
+- 💻 I was an AI/ML Engineering intern at Honeywell Technologies developing AI solutions with Azure and Python.
+- 🚗 I'm a Software Engineering intern at Revolution Parts utilizing JavaScript and PHP.
 - 💼 I'm a Software Developer working for the National Science Foundation-funded Spatial Ecology Gateway project.
 - 📝 I've been a UGTA for Principles of Programming Languages and Intro to Theoretical Computer Science.
   
