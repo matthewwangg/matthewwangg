@@ -12,7 +12,7 @@
 - 🤖 Brainstorming a new project related to Reinforcement Learning.
 - 📘 Reading Intro to Algorithms 4th edition to improve my understanding of Computer Science.
 - 🤔 Contemplating future improvements for my senior Capstone project with Let's Technologies
-- 🏫 Searching for the classes for my final semester at ASU.
+- 🏫 Awaiting decisions from graduate school applications.
 
 ## Languages, Frameworks, and Technologies
 
