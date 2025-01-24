@@ -11,7 +11,7 @@
 - 🔭 Learning Go and WebSockets through developing Paper Trail.
 - 🤖 Brainstorming a new project related to Reinforcement Learning.
 - 📘 Reading Intro to Algorithms 4th edition to improve my understanding of Computer Science.
-- 🤔 Contemplating future improvements for my senior Capstone project with Let's Technologies
+- 🤔 Developing a Shopify app with Remix and TypeScript with Let's Technologies.
 - 🏫 Awaiting decisions from graduate school applications.
 
 ## Languages, Frameworks, and Technologies
