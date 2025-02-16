@@ -8,7 +8,7 @@
   
 ## This Month's Focus 📌
 
-- 🔭 Learning socket programming for CSE 434 Computer Networks.
+- 🔭 Learning socket programming and Go.
 - 📘 Reading Intro to Algorithms 4th edition to improve my understanding of Computer Science.
 - 🤔 Working on my senior Capstone project with Let's Technologies.
 - 🏫 Awaiting decisions from graduate school applications (already accepted for ASU MSCS).
