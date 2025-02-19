@@ -11,7 +11,7 @@
 - 🔭 Learning socket programming and Go.
 - 📘 Reading Intro to Algorithms 4th edition to improve my understanding of Computer Science.
 - 🤔 Working on my senior Capstone project with Let's Technologies.
-- 🏫 Awaiting decisions from graduate school applications (already accepted for ASU MSCS).
+- 🏫 Making a decision on which graduate school to attend.
 
 ## Languages, Frameworks, and Technologies
 
