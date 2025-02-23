@@ -1,17 +1,17 @@
 # 👋 Hey! I'm Matt
 
-- 📓 I'm getting my Bachelor of Science in Computer Science at Arizona State University.
-- 🚗 I'm a Software Engineering intern at Revolution Parts utilizing JavaScript, PHP, and Python.
-- 💼 I was a Software Developer working for the NSF-funded Spatial Ecology Gateway project.
-- 💻 I was an AI/ML Engineering intern at Honeywell Technologies developing AI solutions with Azure and Python.
+- 📓 I'm getting my BS in Computer Science at Arizona State University.
+- 🚗 I'm a SWE intern at Revolution Parts utilizing JavaScript, PHP, and Python.
+- 💼 I was a Software Developer working on the NSF-funded Spatial Ecology Gateway.
+- 💻 I was an AI/ML Engineering intern at Honeywell developing cloud AI solutions with Azure and Python.
 - 📝 I've been a UGTA for Principles of Programming Languages and Intro to Theoretical Computer Science.
   
 ## This Month's Focus 📌
 
-- 🔭 Learning socket programming and Go.
-- 📘 Reading Intro to Algorithms 4th edition to improve my understanding of Computer Science.
-- 🤔 Working on my senior Capstone project with Let's Technologies.
-- 🏫 Making a decision on which graduate school to attend.
+- 🔭 Learning socket programming and Go through my Go TCP chat server project.
+- 📘 Reading Computer Networking: A Top Down Approach to improve my understanding of networks.
+- 🤔 Working with Let's Technologies on an exciting new Capstone project.
+- 🏫 Making plans regarding graduate school and my future.
 
 ## Languages, Frameworks, and Technologies
 
