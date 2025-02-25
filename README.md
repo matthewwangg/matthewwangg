@@ -8,7 +8,7 @@
   
 ## This Month's Focus 📌
 
-- 🔭 Learning socket programming and Go through my Go TCP chat server project.
+- 🔭 Practicing socket programming and Go through my Go TCP chat server project.
 - 📘 Reading Computer Networking: A Top Down Approach to improve my understanding of networks.
 - 🤔 Working with Let's Technologies on an exciting new Capstone project.
 - 🏫 Making plans regarding graduate school and my future.
