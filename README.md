@@ -8,7 +8,7 @@
   
 ## This Month's Focus 📌
 
-- 🔭 Practicing socket programming and Go.
+- 🔭 Creating a Distributed Hash Table with hot potato query processing.
 - 📘 Reading Computer Networking: A Top Down Approach
 - 🤔 Working with Let's Technologies and RevolutionParts.
 - 🏫 Making plans regarding graduate school.
