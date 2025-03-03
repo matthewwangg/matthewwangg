@@ -2,15 +2,14 @@
 
 - 📓 Current BS Computer Science at Arizona State University.
 - 🚗 Software Engineering Intern at RevolutionParts
-- 💼 Ex-Software Developer working with San Diego Supercomputer Center.
-- 💻 Ex-AI/ML Engineering intern at Honeywell.
+- 💻 Previous AI/ML Eng. Intern at Honeywell and previous Software Developer working with SDSC.
 - 📝 Ex-UGTA for Principles of Programming Languages and Intro to Theoretical Computer Science.
   
 ## This Month's Focus 📌
 
 - 🔭 Creating a Distributed Hash Table with hot potato query processing.
-- 📘 Reading Computer Networking: A Top Down Approach
-- 🤔 Working with Let's Technologies and RevolutionParts.
+- 📘 Reading Computer Networking: A Top Down Approach 
+- 💼 Working with RevolutionParts and Let's Technologies.
 - 🏫 Making plans regarding graduate school.
 
 ## Languages, Frameworks, and Technologies
