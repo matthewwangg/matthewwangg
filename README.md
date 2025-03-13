@@ -10,7 +10,7 @@
 - 🔭 Creating a Distributed Hash Table with hot potato query processing.
 - 📘 Reading Computer Networking: A Top Down Approach 
 - 💼 Working with RevolutionParts and Let's Technologies.
-- 🏫 Making plans regarding graduate school.
+- 🏫 Making plans regarding graduate school and my summer internship offers.
 
 ## Languages, Frameworks, and Technologies
 
