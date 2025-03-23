@@ -17,9 +17,9 @@
 
 <img src="https://skillicons.dev/icons?i=python,go,cpp,js,ts,java,php,c,bash"/>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,django,flask,pytorch,tensorflow,postgres,mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,next,flask,pytorch,tensorflow,postgres,mysql,mongodb"/>
 
-<img src="https://skillicons.dev/icons?i=azure,gcp,aws,linux,docker,terraform,github,powershell,vscode"/>
+<img src="https://skillicons.dev/icons?i=azure,gcp,aws,linux,docker,terraform,github,powershell,graphql"/>
 
 ## Contact Information 📲
 
