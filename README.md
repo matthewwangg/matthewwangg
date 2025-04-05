@@ -2,14 +2,14 @@
 
 - 📓 Current BS Computer Science at Arizona State University.
 - 💻 Incoming Software Engineering Intern at Google.
-- 🚗 Software Engineering Intern at RevolutionParts
+- 🚗 Software Engineering Intern at RevolutionParts.
 - 🤖 Previous AI/ML Eng. Intern at Honeywell and previous Software Developer working with SDSC.
 - 📝 Ex-UGTA for Principles of Programming Languages and Intro to Theoretical Computer Science.
   
 ## This Month's Focus 📌
 
 - 🔭 Creating a Distributed Hash Table with hot potato query processing.
-- 📘 Reading Computer Networking: A Top Down Approach 
+- 📘 Reading Computer Networking: A Top Down Approach and learning Kubernetes. 
 - 💼 Working with RevolutionParts and Let's Technologies.
 - 🏫 Preparing for graduate school and for Google.
 
