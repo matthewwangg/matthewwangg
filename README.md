@@ -19,7 +19,7 @@
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,next,flask,pytorch,tensorflow,postgres,mysql,mongodb"/>
 
-<img src="https://skillicons.dev/icons?i=azure,gcp,aws,linux,docker,terraform,github,powershell,graphql"/>
+<img src="https://skillicons.dev/icons?i=azure,gcp,aws,linux,docker,terraform,github,k8s,graphql"/>
 
 ## Contact Information 📲
 
