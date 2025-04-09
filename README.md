@@ -8,7 +8,7 @@
   
 ## This Month's Focus 📌
 
-- 🔭 Creating a Distributed Hash Table with hot potato query processing.
+- 🔭 Creating an LRU-IPV cache replacement policy in C++.
 - 📘 Reading Computer Networking: A Top Down Approach and learning Kubernetes. 
 - 💼 Working with RevolutionParts and Let's Technologies.
 - 🏫 Preparing for graduate school and for Google.
