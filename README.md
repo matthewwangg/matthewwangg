@@ -8,7 +8,7 @@
   
 ## This Month's Focus 📌
 
-- 🔭 Creating an LRU-IPV cache replacement policy in C++.
+- 🔭 Wrapping up my last semester at ASU.
 - 📘 Reading Computer Networking: A Top Down Approach and learning Kubernetes. 
 - 💼 Working with RevolutionParts and Let's Technologies.
 - 🏫 Preparing for graduate school and for Google.
