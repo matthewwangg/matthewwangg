@@ -8,10 +8,10 @@
   
 ## This Month's Focus 📌
 
-- 🔭 Wrapping up my last semester at ASU.
+- 🔭 Preparing to start as a SWE Intern at Google.
 - 📘 Reading Computer Networking: A Top Down Approach and learning Kubernetes. 
-- 💼 Working with RevolutionParts and Let's Technologies.
-- 🏫 Preparing for graduate school and for Google.
+- 💼 Working with RevolutionParts.
+- 🏫 Preparing for graduate school.
 
 ## Languages, Frameworks, and Technologies
 
