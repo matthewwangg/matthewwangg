@@ -1,7 +1,7 @@
 # 👋 Hey! I'm Matt
 
 - 📓 Current BS Computer Science at Arizona State University.
-- 💻 Incoming Software Engineering Intern at Google.
+- 💻 Software Engineering Intern at Google.
 - 🚗 Software Engineering Intern at RevolutionParts.
 - 🤖 Previous AI/ML Eng. Intern at Honeywell and previous Software Developer working with SDSC.
 - 📝 Ex-UGTA for Principles of Programming Languages and Intro to Theoretical Computer Science.
@@ -9,9 +9,9 @@
 ## This Month's Focus 📌
 
 - 🔭 Preparing to start as a SWE Intern at Google.
-- 📘 Reading Computer Networking: A Top Down Approach and learning Kubernetes. 
-- 💼 Working with RevolutionParts.
-- 🏫 Preparing for graduate school.
+- 📘 Learning Kubernetes and gRPC. 
+- 💼 Working with Google and RevolutionParts.
+- 🏫 Preparing for graduate school at UC San Diego.
 
 ## Languages, Frameworks, and Technologies
 
