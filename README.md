@@ -1,6 +1,6 @@
 # 👋 Hey! I'm Matt
 
-- 📓 Current BS Computer Science at Arizona State University.
+- 📓 BS Computer Science at Arizona State University.
 - 💻 Software Engineering Intern at Google.
 - 🚗 Software Engineering Intern at RevolutionParts.
 - 🤖 Previous AI/ML Eng. Intern at Honeywell and previous Software Developer working with SDSC.
