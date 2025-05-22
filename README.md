@@ -2,15 +2,14 @@
 
 - 📓 Incoming MS CSE at UC San Diego and previous BS CS at ASU.
 - 💻 Software Engineering Intern at Google.
-- 🚗 Software Engineering Intern at RevolutionParts.
+- 🚗 Ex-SWE Intern at RevolutionParts.
 - 🤖 Ex-AI/ML Eng. Intern at Honeywell and Software Developer for SDSC.
 - 📝 Ex-UGTA for ASU CSE 340 and CSE 355.
   
 ## This Month's Focus 📌
 
-- 🔭 Preparing to start as a SWE Intern at Google.
 - 📘 Learning Kubernetes and gRPC. 
-- 💼 Working with Google and RevolutionParts.
+- 💼 Working with Google on Vertex AI.
 - 🏫 Preparing for graduate school at UC San Diego.
 
 ## Languages, Frameworks, and Technologies
