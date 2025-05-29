@@ -8,8 +8,8 @@
   
 ## This Month's Focus 📌
 
-- 📘 Learning Kubernetes and gRPC. 
-- 💼 Working with Google on Vertex AI.
+- 📘 Learning Borg and RPC. 
+- 💼 Working with Google on Vertex AI Search.
 - 🏫 Preparing for graduate school at UC San Diego.
 
 ## Languages, Frameworks, and Technologies
