@@ -14,11 +14,11 @@
 
 ## Languages, Frameworks, and Technologies
 
-<img src="https://skillicons.dev/icons?i=python,go,cpp,js,ts,java,php,c,bash"/>
+<img src="https://skillicons.dev/icons?i=cpp,go,python,js,ts,java,php,c,bash"/>
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,next,flask,pytorch,tensorflow,postgres,mysql,mongodb"/>
 
-<img src="https://skillicons.dev/icons?i=azure,gcp,aws,linux,docker,terraform,github,k8s,graphql"/>
+<img src="https://skillicons.dev/icons?i=gcp,azure,aws,linux,docker,terraform,github,k8s,graphql"/>
 
 ## Contact Information 📲
 
