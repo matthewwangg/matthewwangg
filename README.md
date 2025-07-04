@@ -1,6 +1,6 @@
 # 👋 Hey! I'm Matt
 
-- 📓 Incoming MS CSE at UC San Diego and previous BS CS at ASU.
+- 📓 Incoming MS CSE at UC San Diego.
 - 💻 Software Engineering Intern at Google.
 - 🚗 Ex-SWE Intern at RevolutionParts.
 - 🤖 Ex-AI/ML Eng. Intern at Honeywell and Software Developer for SDSC.
@@ -8,9 +8,9 @@
   
 ## This Month's Focus 📌
 
-- 📘 Learning Borg and RPC. 
-- 💼 Working with Google on Vertex AI Search.
-- 🏫 Preparing for graduate school at UC San Diego.
+- 📘 Improving my C++ skills.
+- 💼 Working on Vertex AI Search at Google.
+- 🏫 Preparing for UC San Diego.
 
 ## Languages, Frameworks, and Technologies
 
