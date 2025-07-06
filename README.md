@@ -16,7 +16,7 @@
 
 <img src="https://skillicons.dev/icons?i=cpp,go,python,js,ts,java,php,c,bash"/>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,next,flask,pytorch,tensorflow,postgres,mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,next,flask,pytorch,redis,postgres,mysql,mongodb"/>
 
 <img src="https://skillicons.dev/icons?i=gcp,azure,aws,linux,docker,terraform,github,k8s,graphql"/>
 
