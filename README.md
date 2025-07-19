@@ -9,7 +9,7 @@
 ## This Month's Focus 📌
 
 - 📘 Improving my C++ skills.
-- 💼 Working on Vertex AI Search at Google.
+- 💼 Working on Agentspace at Google.
 - 🏫 Preparing for UC San Diego.
 
 ## Languages, Frameworks, and Technologies
@@ -18,7 +18,7 @@
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,next,flask,pytorch,redis,postgres,mysql,mongodb"/>
 
-<img src="https://skillicons.dev/icons?i=gcp,azure,aws,linux,docker,terraform,github,k8s,graphql"/>
+<img src="https://skillicons.dev/icons?i=gcp,k8s,docker,azure,aws,linux,terraform,github,graphql"/>
 
 ## Contact Information 📲
 
