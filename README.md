@@ -12,7 +12,7 @@
 - 💼 Working on Agentspace at Google.
 - 🏫 Preparing for UC San Diego.
 
-## Languages, Frameworks, and Technologies
+## Languages, Frameworks, and Technologies 🖥️
 
 <img src="https://skillicons.dev/icons?i=cpp,go,python,js,ts,java,php,c,bash"/>
 
