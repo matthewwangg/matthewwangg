@@ -23,4 +23,4 @@
 ## Contact Information 📲
 
 - 🔗 LinkedIn: [Matthew Wang](https://www.linkedin.com/in/matthew-wang-cs/)
-- 📫 Email: [miwang1@asu.edu](mailto:miwang1@asu.edu).
+- 📫 Email: [matthewianwang@gmail.com](mailto:matthewianwang@gmail.com).
