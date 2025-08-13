@@ -1,6 +1,6 @@
 # 👋 Hey! I'm Matt
 
-- 📓 Incoming MS CSE at UC San Diego.
+- 📓 BS Computer Science at Arizona State University.
 - 💻 Software Engineering Intern at Google.
 - 🚗 Ex-SWE Intern at RevolutionParts.
 - 🤖 Ex-AI/ML Eng. Intern at Honeywell and Software Developer for SDSC.
@@ -10,7 +10,7 @@
 
 - 📘 Improving my C++ skills.
 - 💼 Working on Agentspace at Google.
-- 🏫 Preparing for UC San Diego.
+- 🏫 Preparing for post-college life.
 
 ## Languages, Frameworks, and Technologies 🖥️
 
