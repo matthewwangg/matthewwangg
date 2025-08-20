@@ -8,17 +8,17 @@
   
 ## This Month's Focus 📌
 
-- 📘 Improving my C++ skills.
 - 💼 Working on Agentspace at Google.
+- 📘 Developing some fun personal projects.
 - 🏫 Preparing for post-college life.
 
 ## Languages, Frameworks, and Technologies 🖥️
 
 <img src="https://skillicons.dev/icons?i=cpp,go,python,js,ts,java,php,c,bash"/>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,next,flask,pytorch,redis,postgres,mysql,mongodb"/>
-
 <img src="https://skillicons.dev/icons?i=gcp,k8s,docker,azure,aws,linux,terraform,github,graphql"/>
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,pytorch,react,nodejs,next,flask,mysql,mongodb"/>
 
 ## Contact Information 📲
 
