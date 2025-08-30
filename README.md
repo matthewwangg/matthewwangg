@@ -6,8 +6,8 @@
   
 ## This Month's Focus 📌
 
-- 💼 Working on Agentspace at Google.
-- 📘 Developing some fun personal projects in C++ and Go.
+- 💼 Learning about Model Context Protocol.
+- 📘 Developing some fun projects in C++, Go, and Python.
 
 ## Languages, Frameworks, and Technologies 🖥️
 
