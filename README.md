@@ -2,7 +2,7 @@
 
 - 📓 BS Computer Science at Arizona State University.
 - 💻 Software Engineering Intern at Google.
-- 💡 Passionate about ML infrastructure and distributed systems.
+- 💡 Passionate about ML infrastructure, databases, and distributed systems.
   
 ## This Month's Focus 📌
 
