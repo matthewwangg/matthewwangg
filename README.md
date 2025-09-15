@@ -6,7 +6,7 @@
   
 ## This Month's Focus 📌
 
-- 💼 Learning about Model Context Protocol.
+- 💼 Learning about database management system internals.
 - 📘 Developing some fun projects in C++, Go, and Python.
 
 ## Languages, Frameworks, and Technologies 🖥️
