@@ -6,8 +6,8 @@
   
 ## This Month's Focus 📌
 
-- 💼 Learning about database management system internals.
-- 📘 Developing some fun projects in C++, Go, and Python.
+- 💼 Building my own database management system.
+- 📘 Studying distributed systems and ML infrastructure by reading papers.
 
 ## Languages, Frameworks, and Technologies 🖥️
 
