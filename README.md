@@ -6,6 +6,7 @@
   
 ## This Month's Focus 📌
 
+- 🛫 Preparing to start my post-university career.
 - 💼 Building my own database management system.
 - 📘 Studying distributed systems and ML infrastructure by reading papers.
 
