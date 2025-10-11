@@ -7,8 +7,8 @@
 ## This Month's Focus 📌
 
 - 🛫 Preparing to start my post-university career.
-- 💼 Building my own database management system.
-- 📘 Studying distributed systems and ML infrastructure by reading papers.
+- 💼 Building my own database management system in C++.
+- 📘 Studying distributed systems, databases, and ML infrastructure by reading papers.
 
 ## Languages, Frameworks, and Technologies 🖥️
 
