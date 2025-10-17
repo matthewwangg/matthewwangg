@@ -1,12 +1,12 @@
 # Hey! I'm Matt 👋 
 
 - 📓 BS Computer Science at Arizona State University.
-- 💻 Software Engineering Intern at Google.
+- 💻 Incoming Software Engineer at Google.
 - 💡 Passionate about ML infrastructure, databases, and distributed systems.
   
 ## This Month's Focus 📌
 
-- 🛫 Preparing to start my post-university career.
+- 🛫 Preparing to start my post-university career at Google.
 - 💼 Building my own database management system in C++.
 - 📘 Studying distributed systems, databases, and ML infrastructure by reading papers.
 
