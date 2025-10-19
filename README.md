@@ -1,7 +1,7 @@
 # Hey! I'm Matt 👋 
 
 - 📓 BS Computer Science at Arizona State University.
-- 💻 Incoming Software Engineer at Google.
+- 💻 Software Engineer at Google.
 - 💡 Passionate about ML infrastructure, databases, and distributed systems.
   
 ## This Month's Focus 📌
