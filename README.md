@@ -6,7 +6,7 @@
   
 ## This Month's Focus 📌
 
-- 🛫 Preparing to start my post-university career at Google.
+- 🛫 Flying home before starting at Google early next year.
 - 💼 Building my own database management system in C++.
 - 📘 Studying distributed systems, databases, and ML infrastructure by reading papers.
 
