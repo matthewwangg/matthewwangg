@@ -1,7 +1,7 @@
 # Hey! I'm Matt 👋 
 
-- 📓 BS Computer Science at Arizona State University.
 - 💻 Software Engineer at Google.
+- 📓 BS Computer Science graduate from Arizona State University.
 - 💡 Passionate about ML infrastructure, databases, and distributed systems.
   
 ## This Month's Focus 📌
