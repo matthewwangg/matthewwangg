@@ -4,13 +4,13 @@
 - 📓 BS Computer Science graduate from Arizona State University.
 - 💡 Passionate about ML infrastructure, databases, and distributed systems.
   
-## This Month's Focus 📌
+## Current Focus 📌
 
 - 🛫 Resting at home before starting at Google early next year.
 - 💼 Building my own database management system in C++.
 - 📘 Studying distributed systems, databases, and ML infrastructure by reading papers.
 
-## Languages, Frameworks, and Technologies 🖥️
+## Tech Stack 🖥️
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
