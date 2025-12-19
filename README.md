@@ -6,8 +6,8 @@
   
 ## Current Focus 📌
 
-- 🛫 Resting at home before starting at Google early next year.
-- 💼 Building my own database management system in C++.
+- 🛫 Resting at home before starting at Google.
+- 💼 Building my own database system in C++.
 - 📘 Studying distributed systems, databases, and ML infrastructure by reading papers.
 
 ## Tech Stack 🖥️
