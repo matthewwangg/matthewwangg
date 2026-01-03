@@ -7,7 +7,7 @@
 ## Current Focus 📌
 
 - 🛫 Resting at home before starting at Google.
-- 💼 Building my own database system in C++.
+- 💼 Building Tempo, a helpful tool for reaching your goals.
 - 📘 Studying distributed systems, databases, and ML infrastructure by reading papers.
 
 ## Tech Stack 🖥️
