@@ -6,9 +6,7 @@
   
 ## Current Focus 📌
 
-- 🛫 Resting at home before starting at Google.
-- 💼 Building Tempo, a helpful tool for reaching your goals.
-- 📘 Studying distributed systems, databases, and ML infrastructure by reading papers.
+- ⛰️ Heading straight towards the mountains...
 
 ## Tech Stack 🖥️
 
