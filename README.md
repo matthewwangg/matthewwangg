@@ -7,6 +7,7 @@
 ## Current Focus 📌
 
 - ⛰️ Heading straight towards the mountains...
+- 💼 Awaiting Google Cloud AI team match.
 
 ## Tech Stack 🖥️
 
