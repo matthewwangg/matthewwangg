@@ -7,7 +7,7 @@
 ## Current Focus 📌
 
 - ⛰️ Heading straight towards the mountains...
-- 💼 Awaiting Google Cloud AI team match.
+- 💼 Starting at Google Cloud Vertex AI Training Clusters!
 
 ## Tech Stack 🖥️
 
