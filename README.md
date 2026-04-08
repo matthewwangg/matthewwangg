@@ -30,8 +30,3 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-
-## Contact Information ☎️
-
-- 🔗 LinkedIn: [Matthew Wang](https://www.linkedin.com/in/matthew-wang-cs/)
-- 📫 Email: [matthewianwang@gmail.com](mailto:matthewianwang@gmail.com).
