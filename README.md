@@ -6,7 +6,7 @@
   
 ## Current Focus 📌
 
-- ⛰️ Heading straight towards the mountains...
+- ⛵️ Working on agentic RL systems.
 
 ## Tech Stack 🖥️
 
