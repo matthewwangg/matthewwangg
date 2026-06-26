@@ -6,7 +6,7 @@
   
 ## Current Focus 📌
 
-- 🤖 Creating local AI inference engine.
+- 🤖 Creating a local AI inference engine.
 
 ## Tech Stack 🖥️
 
