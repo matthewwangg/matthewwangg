@@ -1,12 +1,12 @@
 # Hello I'm Matt! 👋 
 
 - ☁️ Software Engineer at Google.
-- 💻 BS Computer Science from Arizona State University.
+- 💻 BS Computer Science from Arizona State.
 - 💡 Focused on ML infrastructure, databases, and distributed systems.
   
 ## Current Focus 📌
 
-- 🤖 Creating a local AI inference engine.
+- 🤖 Creating a lightweight AI inference engine.
 
 ## Tech Stack 🖥️
 
