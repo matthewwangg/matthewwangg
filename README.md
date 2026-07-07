@@ -2,7 +2,7 @@
 
 - ☁️ Software Engineer at Google.
 - 💻 BS Computer Science from Arizona State.
-- 💡 Focused on ML infrastructure, databases, and distributed systems.
+- 💡 Expertise with ML infrastructure, databases, and distributed systems.
   
 ## Current Focus 📌
 
