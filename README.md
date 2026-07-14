@@ -6,7 +6,7 @@
   
 ## Current Focus 📌
 
-- 🤖 Creating a lightweight AI inference engine.
+- 🤖 Creating a lightweight AI inference engine from scratch.
 
 ## Tech Stack 🖥️
 
